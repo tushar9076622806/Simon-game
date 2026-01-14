@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+
+.boxs{
+   margin:5px auto ;
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+   align-items: center;
+   height: 550px;
+   width: 550px;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 15px solid black;
+    border-radius: 50px;
+  
+}
+.one{
+    background-color:#d95980;
+ 
+}
+.two{
+    background-color: rgb(79, 79, 239);
+    
+}
+.three{
+    background-color: yellow;
+     
+}
+.four{
+    background-color: rgb(107, 250, 107);
+   
+}
+.flash{
+    background-color: azure;
+}
